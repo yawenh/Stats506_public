@@ -23,3 +23,5 @@
 * Week5: Stata
 * Week6: 
 
+### Midterm Project
+#### Group Members: [Yawen Hu](https://github.com/yawenh/Stats506_public), [Zhihao Xu](https://github.com/ZhihaoXu/Stats506_public), [Rithu Uppalapati](https://github.com/rurithu/Stats506_public), [Hongfan Chen](https://github.com/HongfanChen/Stats506_public)  
